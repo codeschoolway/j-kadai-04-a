@@ -17,6 +17,7 @@ header {
 }
 nav {
     padding-left: 30px;
+    margin-right: -40px;
     display: flex;
     justify-content: space-between;
  }
@@ -66,7 +67,7 @@ nav {
     position: absolute;
     top: 15px;
     left: 20px;
-    color: rgba(0, 0, 0, 0.44);
+    color: #9AA0A6;
     font-size: 120%;
 }
 .form-container {
